@@ -50,6 +50,17 @@ ul {
     overflow: auto;
 }
 
+#section ul li a {
+    display: block;
+    color: darkblue;
+    padding: 2px;
+    text-decoration: none;
+}
+
+#section ul li a:hover {
+    background-color: cornsilk;
+}
+
 #footer {
     background-color: black;
     text-align: center;
